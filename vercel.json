@@ -1,4 +1,0 @@
-{
-  "installCommand": "cd smart-api-monitor-frontend/front-saas && npm install",
-  "buildCommand": "cd smart-api-monitor-frontend/front-saas && npm run build"
-}
