@@ -1,0 +1,34 @@
+# Monorepo ignores
+.DS_Store
+*.log
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Node / Next
+node_modules/
+.next/
+out/
+build/
+dist/
+.vercel/
+*.tsbuildinfo
+
+# Java / Maven
+target/
+
+# Python
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# IDEs
+.idea/
+.vscode/
+
+# Prevent nested repos from being published accidentally
+**/.git/
