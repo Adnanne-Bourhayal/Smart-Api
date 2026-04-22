@@ -254,8 +254,11 @@ This is intentionally demo-only and must not grant access to anything sensitive.
 ## Screenshots
 
 <img width="1424" height="811" alt="Captura de pantalla 2026-04-22 a las 14 01 00" src="https://github.com/user-attachments/assets/936150d4-d09c-4195-9f9e-2de37564f8d3" />
+
 <img width="1440" height="811" alt="Captura de pantalla 2026-04-22 a las 14 01 18" src="https://github.com/user-attachments/assets/b530d5bf-035b-4b9b-9b10-d3ffae2b43cd" />
+
 <img width="1424" height="813" alt="Captura de pantalla 2026-04-22 a las 14 18 00" src="https://github.com/user-attachments/assets/9a1a90f1-5c75-43dc-8961-3d6d0e2ccc1b" />
+
 <img width="1424" height="813" alt="Captura de pantalla 2026-04-22 a las 14 18 50" src="https://github.com/user-attachments/assets/87d15ca4-4a2d-42a0-8024-29b46f3284c3" />
 
 
