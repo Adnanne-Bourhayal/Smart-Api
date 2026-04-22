@@ -42,10 +42,10 @@ export function SiteHeader() {
 
         <div className="hidden items-center gap-3 md:flex">
           <Button asChild variant="ghost" size="sm">
-            <Link href="/dashboard">Sign in</Link>
+            <Link href="/login">Sign in</Link>
           </Button>
           <Button asChild size="sm">
-            <Link href="/dashboard">Start Free</Link>
+            <Link href="/login">Start Free</Link>
           </Button>
         </div>
 
@@ -77,10 +77,10 @@ export function SiteHeader() {
             ))}
             <div className="mt-4 flex flex-col gap-2">
               <Button asChild variant="ghost" size="sm" className="justify-start">
-                <Link href="/dashboard" onClick={() => setMobileMenuOpen(false)}>Sign in</Link>
+                <Link href="/login" onClick={() => setMobileMenuOpen(false)}>Sign in</Link>
               </Button>
               <Button asChild size="sm">
-                <Link href="/dashboard" onClick={() => setMobileMenuOpen(false)}>Start Free</Link>
+                <Link href="/login" onClick={() => setMobileMenuOpen(false)}>Start Free</Link>
               </Button>
             </div>
           </nav>

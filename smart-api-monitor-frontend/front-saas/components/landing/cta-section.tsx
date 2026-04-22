@@ -16,7 +16,7 @@ export function CTASection() {
         </p>
         <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
           <Button asChild size="lg" className="gap-2 rounded-full px-8">
-            <Link href="/dashboard">
+            <Link href="/login">
               Start Free
               <ArrowRight className="h-4 w-4" />
             </Link>
