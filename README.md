@@ -4,6 +4,10 @@ Smart API Monitor is a full-stack portfolio project built to showcase how I desi
 
 The project simulates a modern security monitoring product for API traffic. It allows a user to inspect suspicious requests, score risk, simulate attacks, import request batches, and review metrics from a SaaS-style dashboard powered by a Spring Boot API and a FastAPI AI analysis service.
 
+
+https://github.com/user-attachments/assets/5a325724-337c-45a6-8ddd-23d56ffbe373
+
+
 ## Why This Project Exists
 
 This repository is part of my software engineering portfolio.
